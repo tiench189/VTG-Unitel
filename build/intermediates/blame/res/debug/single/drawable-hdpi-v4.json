@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic_service1.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\topic_service1.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\highlight_circle.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\highlight_circle.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_isdn.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\ico_isdn.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner2.jpg",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\banner2.jpg"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\turn_left.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\turn_left.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic_offer.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\topic_offer.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cailo.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\cailo.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_righ.PNG",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\arrow_righ.PNG"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\noti_bell.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\noti_bell.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_login.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\bg_login.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_password.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\ico_password.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner3.jpg",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\banner3.jpg"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_pass.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\ico_pass.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic_data.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\topic_data.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sensor_bg.jpg",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\sensor_bg.jpg"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_acc_type.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\ico_acc_type.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_box_balance.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\home_box_balance.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\menu_.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_basic_balance.PNG",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\ico_basic_balance.PNG"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h4.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\h4.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic_199.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\topic_199.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_logo.PNG",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\top_logo.PNG"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_main.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\dot_main.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_offer.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\menu_offer.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cb2.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\cb2.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_box_debit.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\home_box_debit.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h3.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\h3.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_number.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\ico_number.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_box_internet.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\home_box_internet.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\help.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edt_password.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\edt_password.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_username.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\ico_username.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camcam.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\camcam.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\showroom_cover.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\showroom_cover.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edt_number.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\edt_number.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h1.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\h1.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic_4g.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\topic_4g.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unitel.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\unitel.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tariff.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\tariff.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic_balance.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\topic_balance.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\normal_circle.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\normal_circle.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_services.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\menu_services.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_profile.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\new_profile.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box_data.PNG",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\box_data.PNG"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_more.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\menu_more.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_about.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\new_about.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_mobile_internet.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\menu_mobile_internet.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box_shadow.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\box_shadow.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_location.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\new_location.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_setting.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\new_setting.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_viettel.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\logo_viettel.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cb1.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\cb1.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner1_1.jpg",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\banner1_1.jpg"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic_service.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\topic_service.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_banner.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\profile_banner.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h2.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\h2.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner1.jpg",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\banner1.jpg"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_uname.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\ico_uname.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_profile.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\menu_profile.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic_transfer_balance.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\topic_transfer_balance.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner4.jpg",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\drawable-hdpi\\banner4.jpg"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    }
+]

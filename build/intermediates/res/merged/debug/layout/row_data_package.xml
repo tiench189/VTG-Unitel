@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/default_padding" >
+
+        <TextView
+            android:id="@+id/label_basic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/basic_account"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/header_topic" />
+
+        <TextView
+            android:id="@+id/tv_basic_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/label_basic"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/default_padding"
+            android:text="TextView"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/highlight_value"
+            android:textStyle="normal" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_deactive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/default_padding"
+        android:weightSum="2" >
+
+        <RelativeLayout
+            android:id="@+id/btn_deactive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@color/main_color"
+            android:paddingBottom="@dimen/default_padding"
+            android:paddingTop="@dimen/default_padding" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:singleLine="true"
+                android:text="@string/deactive"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/btn_buy_more"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+            android:background="@color/main_color"
+            android:paddingBottom="@dimen/default_padding"
+            android:paddingTop="@dimen/default_padding" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:singleLine="true"
+                android:text="@string/buy_more"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_active"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/default_padding" >
+
+        <RelativeLayout
+            android:id="@+id/btn_active"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@color/main_color"
+            android:paddingBottom="@dimen/default_padding"
+            android:paddingTop="@dimen/default_padding" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:singleLine="true"
+                android:text="@string/active"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white" >
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/gray_header"
+            android:padding="5dp" >
+
+            <ImageView
+                android:id="@+id/ivBack"
+                android:layout_width="@dimen/header_icon"
+                android:layout_height="@dimen/header_icon"
+                android:src="@drawable/turn_left" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/ivBack"
+                android:text="BACK"
+                android:textColor="@color/info_data"
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/showroom"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/text_header"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/white" >
+        </RelativeLayout>
+
+    <Spinner
+        android:id="@+id/spProvine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/default_padding"
+        android:layout_marginRight="@dimen/default_padding" />
+
+    <Spinner
+        android:visibility="gone"
+        android:id="@+id/spShowroom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/default_padding"
+        android:layout_marginRight="@dimen/default_padding" />
+
+    <ListView
+        android:id="@+id/lvShowroom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/default_padding"
+        android:divider="@color/gray2"
+        android:dividerHeight="1dp" >
+    </ListView>
+
+</LinearLayout>

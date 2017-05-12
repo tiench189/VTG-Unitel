@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="about_us">ກ່ຽວກັບ ຢູນີເທວ</string>
+    <string name="acc2000">Basic account</string>
+    <string name="acc2001">Promotion account</string>
+    <string name="acc2004">Basic account when refill card via 198 </string>
+    <string name="acc2500">On-net call, SMS and internet promotion</string>
+    <string name="acc2504">Basic account</string>
+    <string name="acc4046">Free minute call onnet</string>
+    <string name="acc4200">Free sms onnet</string>
+    <string name="acc4500">Free GPRS sub account </string>
+    <string name="acc4560">Free GPRS sub account 1</string>
+    <string name="acc4561">Free GPRS Account2</string>
+    <string name="account_detail">ຂໍ້ມູນບັນຊີ</string>
+    <string name="account_info">ຂໍ້ມູນບັນຊີ</string>
+    <string name="account_name">ຊື່ບັນຊີ</string>
+    <string name="account_type">ປະເພດບັນຊີ</string>
+    <string name="active">ລົງທະບຽນນໍາໃຊ້</string>
+    <string name="address">ທີ່ຢູ່</string>
+    <string name="anyone">ເບີໂທລະສັບອື່ນ</string>
+    <string name="app_name">Unitel</string>
+    <string name="bal1">Basic Balance</string>
+    <string name="bal10">Prepaid Promotion Balance 1</string>
+    <string name="bal12">Internal Free SMS</string>
+    <string name="bal13">Promotion Free Data 1</string>
+    <string name="bal14">Prepaid Promotion Balance 2</string>
+    <string name="bal15">Prepaid International Free Minute</string>
+    <string name="bal16">International Free SMS</string>
+    <string name="bal17">Prepaid External Free Minute</string>
+    <string name="bal19">Promotion Free Data 2</string>
+    <string name="bal26">Promotion Free Data 3</string>
+    <string name="bal28">Promotion Roaming Free Data</string>
+    <string name="bal8">Prepaid Internal Free Minute</string>
+    <string name="balance_acount">ຂໍ້ມູນບັນຊີ</string>
+    <string name="balance_expire">ການດຸ່ນດ່ຽງຫມົດອາຍຸ</string>
+    <string name="balance_value">ມູນຄ່າການດຸ່ນດ່ຽງ</string>
+    <string name="basic_account">ບັນຊີພື້ນຖານ</string>
+    <string name="birthdate">ວັນເດືອນປີເກີດ</string>
+    <string name="buy">ຊື້</string>
+    <string name="buy_data">ຊື້ດາຕ້າ</string>
+    <string name="buy_more">ຊື້ເພີ່ມ</string>
+    <string name="cancel">ຍົກເລີກ</string>
+    <string name="change">ການປ່ຽນແປງ</string>
+    <string name="change_language">ປ່ຽນພາສາ</string>
+    <string name="change_pass">ປ່ຽນ​ລະ​ຫັດ​ຜ່ານ</string>
+    <string name="change_tariff">Change tariff</string>
+    <string name="charge_debit">ຄ່າບໍລິການເກັບໃນເດືອນ</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"ເປີດນຳໃຊ້"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ງານ​ການ​ບໍ​ລິ​ການ Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"ເປີດໃຊ້ການ​ບໍ​ລິ​ການ Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"ຕິດຕັ້ງການ​ບໍ​ລິ​ການ Google Play"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play ເຊິ່ງຂາດຫາຍໄປໃນໂທລະສັບຂອງທ່ານ."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play ເຊິ່ງຂາດຫາຍໄປໃນແທັບ​ເລັດຂອງທ່ານ."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"ຕິດຕັ້ງບໍລິການ Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play Services ​ເກີດ​ຄວາມ​ຜິດ​ພາດ"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ກຳ​ລັງ​ມີ​ບັນ​ຫາ​ກັບ​ການ​ບໍ​ລິ​ການ Google Play. ຖ້າ​ບັນ​ຫາ​ຍັງ​ສືບ​ຕໍ່, ກະ​ລຸ​ນາ​ຕິດ​ຕໍ່​​ຜູ້​ພັດ​ທະ​ນາ ເພື່ອ​ຂໍ​ຄວາມ​ຊ່ວຍ​ເຫຼືອ."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຂຶ້ນ​ກັບ​ການ​ບໍ​ລິ​ການ Google Play, ເຊິ່ງ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ບໍ່​ຮອງ​ຮັບ. ຕິດ​ຕໍ່​ຫາ​ຜູ້​ຜະ​ລິດ​ເພື່ອ​ຂໍ​ການ​ຊ່ວຍ​ເຫຼືອ​ເພີ່ມ​ເຕີມ."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"ບໍລິການ Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"ອັບເດດ"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະອັບເດດການ​ບໍ​ລິ​ການ Google Play"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"ອັບເດດການ​ບໍ​ລິ​ການ Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play, ເຊິ່ງ​ກຳ​ລັງ​ອັບ​ເດດ​ຢູ່​ໃນ​ປະ​ຈຸ​ບັນ."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"ການ​ບໍ​ລິ​ການ Google Play ກຳ​ລັງ​ອັບ​ເດດ"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"ຈຳ​ເປັນ​ຕ້ອງ​ມີ​ກາ​ນ​ບໍ​ລິ​ການ Google Play ເວີ​ຊັນ​ໃໝ່. ມັນ​ຈະ​ອັບ​ເດດ​ຕົວ​ເອງ​ໄວໆ​ນີ້."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ລົງຊື່ເຂົ້າໃຊ້"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"ລົງຊື່ເຂົ້າໃຊ້ດ້ວຍ Google"</string>
+    <string name="confirm_logout">ທ່ານຕ້ອງການທີ່ຈະອອກຈາກລະບົບ?</string>
+    <string name="confirm_register_data">ທ່ານຕ້ອງການລົງທະບຽນບໍ??</string>
+    <string name="confirm_up_pay">ເບີໂທລະສັບທີ່ທ່ານຕ້ອງການເຕີມເງິນ?</string>
+    <string name="credit">ຍອດເງິນຄົງເຫຼືອໃນບັນຊີ</string>
+    <string name="data_3g_account">ບໍລິການ 3 ຈີ/ 4 ຈີ</string>
+    <string name="data_4g_account">ບໍລິການ 4 ຈີ</string>
+    <string name="data_not_available">ອິນເຕີ 3G ບໍ່ສາມາດນໍາໃຊ້ໄດ້</string>
+    <string name="data_register">ລົງທະບຽນ</string>
+    <string name="deactive">ລົບລ້າງ</string>
+    <string name="debit_history">ປະວັດການຊຳລະ</string>
+    <string name="debit_start">ຍອດໜີ້ຍົກມາ</string>
+    <string name="detail_using">ຂໍ້ມູນບັນຊີ</string>
+    <string name="details">ລາຍລະອຽດ</string>
+    <string name="done">ເຮັດ</string>
+    <string name="enddate">ມື້ສິນສຸດ</string>
+    <string name="english">English</string>
+    <string name="enter_number">ກະລຸນາໃສ່ເລກໝາຍໂທລະສັບ</string>
+    <string name="enter_pin">ກະລຸນາໃສ່ ເລກລະຫັດພິນ</string>
+    <string name="err0">success</string>
+    <string name="err1000">User name is invalid</string>
+    <string name="err1001">User name does not exits</string>
+    <string name="err1002">User name is inactive, please contact the administrator</string>
+    <string name="err2000">Webservice code is invalid</string>
+    <string name="err2001">Webservice does not found in databse or inactive</string>
+    <string name="err2002">The web service you requested is inactive, please contact the administrator</string>
+    <string name="err2003">The connection to the web service has problems. Please contact the administrator</string>
+    <string name="err2004">Could not connect to the business web service</string>
+    <string name="err2005">Webservice error</string>
+    <string name="err3000">Client does not found in databse or inactive</string>
+    <string name="err4000">The request\'s message\'s format is not accurate</string>
+    <string name="err4001">Requested web service does not exits</string>
+    <string name="err5000">Too many requests. Please wait until your other request finish</string>
+    <string name="err6000">Because our system is overloading, please wait another time to sent requests</string>
+    <string name="err6001">You don\'t have the right to access the web service</string>
+    <string name="err6002">Your right about calling the web service is expired, please contact the administrator</string>
+    <string name="err6003">Login failed. Please check user name, password and your IP Address and contact the administrator</string>
+    <string name="err6004">Login failed.UserName is invalid.</string>
+    <string name="err6005">Error when load response to DOM</string>
+    <string name="err6006">Error occur when decrypt user and password</string>
+    <string name="err7000">The connection to DB has some problems. The gateway can not handle the request at this time</string>
+    <string name="err7001">Database error</string>
+    <string name="err8000">The ip is incorrect</string>
+    <string name="err8001">The password is incorrect</string>
+    <string name="err8002">The userName $username$ is incorrect!</string>
+    <string name="err9000">Unhandled error occur</string>
+    <string name="err9001">Exception</string>
+    <string name="err9002">Error when prepare soap input</string>
+    <string name="err_connect">Connection error!</string>
+    <string name="err_m1">Unknow error</string>
+    <string name="error">Error</string>
+    <string name="forgot_pass">ລືມລະຫັດຜ່ານ?</string>
+    <string name="google_api_key">AIzaSyBnLuF_wKKtSiLBF6Mal6RUI9qWTvDbbno</string>
+    <string name="help">ຕ້ອງການຄວາມຊ່ວຍເຫຼືອ</string>
+    <string name="hint_number">ຍົກຕົວຢ່າງ: 209XXX</string>
+    <string name="info">ຂໍ້ມູນ</string>
+    <string name="lao">ພາສາລາວ</string>
+    <string name="login">ເຊື່ອມຕໍ່</string>
+    <string name="logout">ອອກຈາກລະບົບ</string>
+    <string name="map">ແຜນທີ່</string>
+    <string name="message_checking">checking...</string>
+    <string name="message_empty_new_password">ກະລຸນາໃສ່ລະຫັດໃໝ່</string>
+    <string name="message_empty_number">ກະລຸນາໃສ່ເລກໝາຍໂທລະສັບ</string>
+    <string name="message_empty_old_password">ໃສ່ລະຫັດເກົ່າ</string>
+    <string name="message_empty_password">ກະລຸນາໃສ່ລະຫັດຜ່ານ</string>
+    <string name="message_empty_pin">ກະລຸນາໃສ່ ເລກລະຫັດພິນ</string>
+    <string name="message_fail">Fail!</string>
+    <string name="message_loading">loading...</string>
+    <string name="message_success">ສຳເລັດ</string>
+    <string name="mobile_number">ເລກໝາຍໂທລະສັບ</string>
+    <string name="more">More</string>
+    <string name="my_profile">ລາຍການຂໍ້ມູນຂອງທ່ານ</string>
+    <string name="name">ຊື່</string>
+    <string name="new_pass">ລະ​ຫັດ​ຜ່ານ​ໃຫມ່</string>
+    <string name="no">ບໍ່</string>
+    <string name="not_register">Not register</string>
+    <string name="notification">ແຈ້ງການ</string>
+    <string name="number">ເລກໝາຍໂທລະສັບ</string>
+    <string name="number_exist">Phone number has been registed</string>
+    <string name="offer">ລາຍການໂປໂມຊັນ</string>
+    <string name="offer_info">ລາຍການໂປໂມຊັນ</string>
+    <string name="old_pass">ລະ​ຫັດ​ຜ່ານ​ເກົ່າ</string>
+    <string name="other_3g_account">ຂໍ້ມູນບັນຊີອື່ນໆ</string>
+    <string name="other_account">ຂໍ້ມູນບັນຊີອື່ນໆ</string>
+    <string name="other_account_info">ຂໍ້ມູນບັນຊີອື່ນໆ</string>
+    <string name="pack_4g">ແພັກເກດ 4ຈີ</string>
+    <string name="password">ລະຫັດຜ່ານ</string>
+    <string name="pay_199">ຊໍາລະ</string>
+    <string name="payment">ການຊຳລະ</string>
+    <string name="pin">Pin</string>
+    <string name="postpaid">ເບີລາຍເດືອນ</string>
+    <string name="prepaid">ເບີຕື່ມເງິນ</string>
+    <string name="profile">ລາຍການຂໍ້ມູນຂອງທ່ານ</string>
+    <string name="promotion">ລາຍການໂປໂມຊັນ</string>
+    <string name="provine">ແຂວງ</string>
+    <string name="re_password">Retype Password</string>
+    <string name="register">ລົງທະບຽນ</string>
+    <string name="remember">ຈືຂໍ້ມູນການ</string>
+    <string name="remove">Remove</string>
+    <string name="service">ບໍລິການ</string>
+    <string name="setting">ການຕັ້ງຄ່າ</string>
+    <string name="showroom">ສູນບໍລິການ</string>
+    <string name="start_datetime">ມື້ເລີ່ມຕົ້ນ</string>
+    <string name="startdate">ມື້ເລີ່ມຕົ້ນ</string>
+    <string name="tariff_detail">ຂໍ້ມູນແພັກເກດ</string>
+    <string name="tariff_details">ລາຍລະອຽດອັດຕາຄ່າບໍລິການ</string>
+    <string name="tariff_info">ຂໍ້ມູນອັດຕາຄ່າໂທ</string>
+    <string name="tariff_plan">ລາຍການອັດຕາຄ່າໂທຂອງທ່ານ</string>
+    <string name="tranfer">ການຖ່າຍໂອນ</string>
+    <string name="up_pay">ເຕີມເງິນເລີຍ</string>
+    <string name="up_pay_2">Card pin is not valid</string>
+    <string name="up_pay_5">Not found  subscriber info</string>
+    <string name="up_pay_6">Payment error</string>
+    <string name="up_pay_7">Over  permitted charge times</string>
+    <string name="up_pay_m3">Invalid subsriber format</string>
+    <string name="up_pay_m5">Pin not found</string>
+    <string name="up_pay_m6">Unhandled error, please contact administrator</string>
+    <string name="user_using">ຊື່ບັນຊີ</string>
+    <string name="vas">ບໍລິການເສີມ</string>
+    <string name="vietel_showroom">ສູນບໍລິການ</string>
+    <string name="vietnam">Việt Nam</string>
+    <string name="view_detail">ເບິ່ງ​ລາຍ​ລະ​ອຽດ</string>
+    <string name="yes">ຕົກລົງ</string>
+    <string name="you">ທ່ານເອງ</string>
+</resources>

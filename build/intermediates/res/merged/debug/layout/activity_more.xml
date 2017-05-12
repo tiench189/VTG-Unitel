@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray2"
+    android:orientation="vertical"
+    android:padding="@dimen/default_padding" >
+
+    <RelativeLayout
+        android:id="@+id/box_about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray_header"
+        android:padding="@dimen/default_padding" >
+
+        <ImageView
+            android:id="@+id/iv_about"
+            android:layout_width="@dimen/bot_menu_ico_height"
+            android:layout_height="@dimen/bot_menu_ico_height"
+            android:src="@drawable/new_about" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/default_padding"
+            android:layout_toRightOf="@id/iv_about"
+            android:text="@string/about_us"
+            android:textColor="@color/new_orange" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/arrow_righ" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="@dimen/default_padding"
+        android:layout_marginRight="@dimen/default_padding"
+        android:background="@color/gray2" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/box_profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray_header"
+        android:padding="@dimen/default_padding" >
+
+        <ImageView
+            android:id="@+id/iv_profile"
+            android:layout_width="@dimen/bot_menu_ico_height"
+            android:layout_height="@dimen/bot_menu_ico_height"
+            android:src="@drawable/new_profile" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/default_padding"
+            android:layout_toRightOf="@id/iv_profile"
+            android:text="@string/my_profile"
+            android:textColor="@color/new_orange" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/arrow_righ" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="@dimen/default_padding"
+        android:layout_marginRight="@dimen/default_padding"
+        android:background="@color/gray2" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/box_showroom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray_header"
+        android:padding="@dimen/default_padding" >
+
+        <ImageView
+            android:id="@+id/iv_showroom"
+            android:layout_width="@dimen/bot_menu_ico_height"
+            android:layout_height="@dimen/bot_menu_ico_height"
+            android:src="@drawable/new_location" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/default_padding"
+            android:layout_toRightOf="@id/iv_showroom"
+            android:text="@string/showroom"
+            android:textColor="@color/new_orange" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/arrow_righ" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="@dimen/default_padding"
+        android:layout_marginRight="@dimen/default_padding"
+        android:background="@color/gray2" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/box_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray_header"
+        android:padding="@dimen/default_padding" >
+
+        <ImageView
+            android:id="@+id/iv_setting"
+            android:layout_width="@dimen/bot_menu_ico_height"
+            android:layout_height="@dimen/bot_menu_ico_height"
+            android:src="@drawable/new_setting" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/default_padding"
+            android:layout_toRightOf="@id/iv_setting"
+            android:text="@string/setting"
+            android:textColor="@color/new_orange" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/arrow_righ" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="@dimen/default_padding"
+        android:layout_marginRight="@dimen/default_padding"
+        android:background="@color/gray2" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/box_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray_header"
+        android:padding="@dimen/default_padding" >
+
+        <ImageView
+            android:id="@+id/iv_logout"
+            android:layout_width="@dimen/bot_menu_ico_height"
+            android:layout_height="@dimen/bot_menu_ico_height"
+            android:src="@drawable/menu_profile" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/default_padding"
+            android:layout_toRightOf="@id/iv_logout"
+            android:text="@string/logout"
+            android:textColor="@color/new_orange" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/arrow_righ" />
+    </RelativeLayout>
+
+</LinearLayout>

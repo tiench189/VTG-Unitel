@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_service.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_basic_service.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_debit.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_basic_debit.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_time_data.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_time_data.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_balance_info.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_balance_info.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_basic_text.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_basic_text.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_sub_offer.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_sub_offer.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_vas.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_vas.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_charge_history.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_charge_history.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_sub_data.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_sub_data.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_more_data.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\dialog_more_data.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_promotion.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_promotion.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buy_data.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_buy_data.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_offer.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_basic_offer.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_profile.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_profile.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_bk.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_main_bk.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_up_pay.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\dialog_up_pay.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_3g.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_basic_3g.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_sub_data2.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_sub_data2.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\menu_frame.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\menu_frame.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_promotion.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_promotion.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debit_history.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_debit_history.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_other_3g.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_other_3g.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vas.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_vas.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showroom_image.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_showroom_image.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_report.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\dialog_report.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showroom.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_showroom.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_language.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\dialog_language.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_banner.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\fragment_banner.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_offer.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_more_offer.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_data_package.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_data_package.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tariff.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_tariff.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_first.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_change_pass.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\dialog_change_pass.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_showroom.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_showroom.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_balance_info.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_balance_info.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_more_data.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_more_data.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_account.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_basic_account.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\layout_register.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\layout_register.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\row_indicator.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\row_indicator.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_tranfer.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\activity_basic_tranfer.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\build\\intermediates\\res\\merged\\debug\\layout\\layout_time_data.xml",
+        "source": "E:\\Other Projects\\VTG\\src\\VTG-Unitel\\res\\layout\\layout_time_data.xml"
+    }
+]

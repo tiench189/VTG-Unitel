@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:seekarc="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/swipeContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/ivMenu"
+                    android:layout_width="@dimen/header_icon"
+                    android:layout_height="@dimen/header_icon"
+                    android:src="@drawable/menu_" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/header_icon"
+                    android:padding="5dp"
+                    android:src="@drawable/logo" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/gray2"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:id="@+id/banner_profile"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_indicator"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:paddingLeft="@dimen/default_padding"
+                        android:paddingRight="@dimen/default_padding"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/label1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:text="NAME"
+                            android:textColor="@color/text_gray"
+                            android:textSize="@dimen/divider_text"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="5dp"
+                            android:layout_toRightOf="@id/label1"
+                            android:text="OR STATUS"
+                            android:textColor="@color/text_gray"
+                            android:textSize="@dimen/divider_text" />
+                    </RelativeLayout>
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/profile_banner" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:orientation="horizontal"
+                        android:weightSum="5">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="3"></RelativeLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="2"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/textView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="WELCOME TO UNITEL"
+                                android:textColor="@android:color/white"
+                                android:textSize="16dp"
+                                android:textStyle="bold" />
+
+                            <RelativeLayout
+                                android:visibility="gone"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <ImageView
+                                    android:layout_width="25dp"
+                                    android:layout_height="25dp"
+                                    android:src="@drawable/ico_uname" />
+
+                                <TextView
+                                    android:id="@+id/tv_username"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerVertical="true"
+                                    android:layout_marginLeft="30dp"
+                                    android:text="Name"
+                                    android:textColor="@android:color/white"
+                                    android:textSize="16dp" />
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <ImageView
+                                    android:layout_width="25dp"
+                                    android:layout_height="25dp"
+                                    android:src="@drawable/ico_isdn" />
+
+                                <TextView
+                                    android:id="@+id/tv_isdn"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerVertical="true"
+                                    android:layout_marginLeft="30dp"
+                                    android:text="ISDN"
+                                    android:textColor="@android:color/white"
+                                    android:textSize="16dp" />
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <ImageView
+                                    android:layout_width="25dp"
+                                    android:layout_height="25dp"
+                                    android:src="@drawable/ico_acc_type" />
+
+                                <TextView
+                                    android:id="@+id/tv_acc_type"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerVertical="true"
+                                    android:layout_marginLeft="30dp"
+                                    android:text="ISDN"
+                                    android:textColor="@android:color/white"
+                                    android:textSize="16dp" />
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:paddingBottom="@dimen/default_padding">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:weightSum="2">
+
+                                    <RelativeLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1"
+                                        android:padding="@dimen/default_padding">
+
+                                        <ImageView
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:adjustViewBounds="true"
+                                            android:src="@drawable/home_box_internet" />
+
+                                        <TextView
+                                            android:id="@+id/tv_mobile_internet"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_centerInParent="true"
+                                            android:layout_margin="@dimen/default_padding"
+                                            android:gravity="center_vertical"
+                                            android:text=""
+                                            android:textColor="@color/new_orange"
+                                            android:visibility="gone" />
+
+                                        <RelativeLayout
+                                            android:id="@+id/layout_internet_amount"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_margin="20dp"
+                                            android:paddingTop="@dimen/default_padding">
+
+                                            <com.triggertrap.seekarc.SeekArc
+                                                android:id="@+id/seek_amount"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="wrap_content"
+                                                android:layout_centerInParent="true"
+                                                android:layout_gravity="center"
+                                                android:padding="20dp"
+                                                seekarc:arcColor="@color/gray2"
+                                                seekarc:arcWidth="@dimen/default_padding"
+                                                seekarc:progress="0"
+                                                seekarc:progressColor="@color/new_orange"
+                                                seekarc:progressWidth="@dimen/default_padding"
+                                                seekarc:thumb="@android:color/transparent"
+                                                seekarc:thumbOffset="0dp"
+                                                seekarc:touchInside="false" />
+
+                                            <LinearLayout
+                                                android:layout_width="match_parent"
+                                                android:layout_height="wrap_content"
+                                                android:layout_centerInParent="true"
+                                                android:orientation="vertical">
+
+                                                <TextView
+                                                    android:id="@+id/tv_internet_amount"
+                                                    android:layout_width="match_parent"
+                                                    android:layout_height="wrap_content"
+                                                    android:gravity="center"
+                                                    android:text=""
+                                                    android:textColor="@color/new_orange"
+                                                    android:textSize="18dp"
+                                                    android:textStyle="bold" />
+
+                                                <TextView
+                                                    android:layout_width="match_parent"
+                                                    android:layout_height="wrap_content"
+                                                    android:gravity="center"
+                                                    android:text="left"
+                                                    android:textColor="@color/new_orange"
+                                                    android:textSize="18dp" />
+                                            </LinearLayout>
+                                        </RelativeLayout>
+
+                                        <RelativeLayout
+                                            android:id="@+id/box_internet"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"></RelativeLayout>
+
+                                    </RelativeLayout>
+
+                                    <RelativeLayout
+                                        android:id="@+id/box_balance"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1"
+                                        android:padding="@dimen/default_padding">
+
+                                        <ImageView
+                                            android:id="@+id/iv_box_balance"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:adjustViewBounds="true"
+                                            android:src="@drawable/home_box_balance" />
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_centerInParent="true"
+                                            android:padding="@dimen/default_padding">
+
+                                            <ImageView
+                                                android:id="@+id/ico_balance"
+                                                android:layout_width="@dimen/bot_menu_ico_height"
+                                                android:layout_height="@dimen/bot_menu_ico_height"
+                                                android:src="@drawable/ico_basic_balance" />
+
+                                            <TextView
+                                                android:id="@+id/label_balance"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_marginLeft="5dp"
+                                                android:layout_marginTop="5dp"
+                                                android:layout_toRightOf="@id/ico_balance"
+                                                android:text="Basic balance"
+                                                android:textColor="@color/new_orange" />
+
+                                            <TextView
+                                                android:id="@+id/tv_basic_balance"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@id/ico_balance"
+                                                android:layout_centerHorizontal="true"
+                                                android:layout_marginTop="@dimen/default_padding"
+                                                android:text=""
+                                                android:textColor="@color/new_orange"
+                                                android:textSize="@dimen/basic_balance_size"
+                                                android:textStyle="bold" />
+                                        </RelativeLayout>
+                                    </RelativeLayout>
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_margin="@dimen/default_padding"
+                                    android:background="@color/gray_header"
+                                    android:orientation="vertical">
+
+                                    <RelativeLayout
+                                        android:id="@+id/box_offer"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:padding="@dimen/default_padding">
+
+                                        <ImageView
+                                            android:id="@+id/iv_offer"
+                                            android:layout_width="@dimen/bot_menu_ico_height"
+                                            android:layout_height="@dimen/bot_menu_ico_height"
+                                            android:src="@drawable/menu_offer" />
+
+                                        <TextView
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="@dimen/default_padding"
+                                            android:layout_toRightOf="@id/iv_offer"
+                                            android:text="@string/offer"
+                                            android:textColor="@color/new_orange" />
+
+                                        <ImageView
+                                            android:layout_width="20dp"
+                                            android:layout_height="20dp"
+                                            android:layout_alignParentRight="true"
+                                            android:layout_centerVertical="true"
+                                            android:src="@drawable/arrow_righ" />
+                                    </RelativeLayout>
+
+                                    <RelativeLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="1dp"
+                                        android:layout_marginLeft="@dimen/default_padding"
+                                        android:layout_marginRight="@dimen/default_padding"
+                                        android:background="@color/gray2"></RelativeLayout>
+
+                                    <RelativeLayout
+                                        android:id="@+id/box_service"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:padding="@dimen/default_padding">
+
+                                        <ImageView
+                                            android:id="@+id/iv_service"
+                                            android:layout_width="@dimen/bot_menu_ico_height"
+                                            android:layout_height="@dimen/bot_menu_ico_height"
+                                            android:src="@drawable/menu_services" />
+
+                                        <TextView
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="@dimen/default_padding"
+                                            android:layout_toRightOf="@id/iv_service"
+                                            android:text="@string/service"
+                                            android:textColor="@color/new_orange" />
+
+                                        <ImageView
+                                            android:layout_width="20dp"
+                                            android:layout_height="20dp"
+                                            android:layout_alignParentRight="true"
+                                            android:layout_centerVertical="true"
+                                            android:src="@drawable/arrow_righ" />
+                                    </RelativeLayout>
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical"
+                                android:visibility="gone">
+
+                                <RelativeLayout
+                                    android:id="@+id/layout_data"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="@dimen/default_padding"
+                                    android:layout_marginRight="@dimen/default_padding"
+                                    android:layout_marginTop="5dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:adjustViewBounds="true"
+                                        android:src="@drawable/topic_data" />
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerVertical="true"
+                                        android:weightSum="3">
+
+                                        <TextView
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="2" />
+
+                                        <TextView
+                                            android:id="@+id/tvDataStatus"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="1"
+                                            android:gravity="center_horizontal"
+                                            android:singleLine="true"
+                                            android:textColor="#E3232F"
+                                            android:textSize="@dimen/topic_status_text"
+                                            android:visibility="gone" />
+                                    </LinearLayout>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_alignParentBottom="true"
+                                        android:layout_alignParentRight="true"
+                                        android:layout_marginRight="2dp"
+                                        android:text="Purchase"
+                                        android:textColor="@android:color/white"
+                                        android:textSize="@dimen/topic_btn_text" />
+
+                                    <ProgressBar
+                                        android:id="@+id/pb_data"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerInParent="true"
+                                        android:visibility="gone" />
+                                </RelativeLayout>
+
+                                <RelativeLayout
+                                    android:id="@+id/layout_offer"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="@dimen/default_padding"
+                                    android:layout_marginRight="@dimen/default_padding"
+                                    android:layout_marginTop="5dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:adjustViewBounds="true"
+                                        android:src="@drawable/topic_offer" />
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerVertical="true"
+                                        android:weightSum="7">
+
+                                        <TextView
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="4" />
+
+                                        <TextView
+                                            android:id="@+id/tvOfferStatus"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="3"
+                                            android:gravity="center_horizontal"
+                                            android:text="Khuyến mãi 0"
+                                            android:textColor="#ffffff"
+                                            android:textSize="@dimen/topic_status_text"
+                                            android:visibility="gone" />
+                                    </LinearLayout>
+
+                                    <ProgressBar
+                                        android:id="@+id/pb_offer"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerInParent="true"
+                                        android:visibility="gone" />
+                                </RelativeLayout>
+
+                                <RelativeLayout
+                                    android:id="@+id/layout_balance"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="@dimen/default_padding"
+                                    android:layout_marginRight="@dimen/default_padding"
+                                    android:layout_marginTop="5dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:adjustViewBounds="true"
+                                        android:src="@drawable/topic_balance" />
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerVertical="true"
+                                        android:weightSum="2">
+
+                                        <TextView
+                                            android:id="@+id/tvBalanceStatus"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginTop="30dp"
+                                            android:layout_weight="1"
+                                            android:paddingLeft="@dimen/default_padding"
+                                            android:textColor="#ffffff"
+                                            android:textSize="@dimen/topic_balance_text"
+                                            android:textStyle="bold" />
+
+                                        <TextView
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="1" />
+                                    </LinearLayout>
+
+                                    <ProgressBar
+                                        android:id="@+id/pb_balance"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerInParent="true"
+                                        android:visibility="gone" />
+                                </RelativeLayout>
+
+                                <RelativeLayout
+                                    android:id="@+id/layout_tranfer"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="@dimen/default_padding"
+                                    android:layout_marginRight="@dimen/default_padding"
+                                    android:layout_marginTop="5dp"
+                                    android:visibility="gone">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:adjustViewBounds="true"
+                                        android:src="@drawable/topic_transfer_balance" />
+                                </RelativeLayout>
+
+                                <RelativeLayout
+                                    android:id="@+id/layout_4g"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="@dimen/default_padding"
+                                    android:layout_marginRight="@dimen/default_padding"
+                                    android:layout_marginTop="5dp"
+                                    android:visibility="gone">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:adjustViewBounds="true"
+                                        android:src="@drawable/topic_4g" />
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerVertical="true"
+                                        android:weightSum="3">
+
+                                        <TextView
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="2" />
+
+                                        <TextView
+                                            android:id="@+id/tv4gStatus"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="1"
+                                            android:gravity="center_horizontal"
+                                            android:singleLine="true"
+                                            android:text="4G is not available"
+                                            android:textColor="#E3232F"
+                                            android:textSize="@dimen/topic_status_text" />
+                                    </LinearLayout>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_alignParentBottom="true"
+                                        android:layout_alignParentRight="true"
+                                        android:layout_marginRight="2dp"
+                                        android:text="Purchase"
+                                        android:textColor="@android:color/white"
+                                        android:textSize="@dimen/topic_btn_text" />
+                                </RelativeLayout>
+
+                                <RelativeLayout
+                                    android:id="@+id/layout_vas"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="@dimen/default_padding"
+                                    android:layout_marginRight="@dimen/default_padding"
+                                    android:layout_marginTop="5dp">
+
+                                    <ImageView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:adjustViewBounds="true"
+                                        android:src="@drawable/topic_service" />
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerVertical="true"
+                                        android:weightSum="7">
+
+                                        <TextView
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="4" />
+
+                                        <TextView
+                                            android:id="@+id/tvServiceStatus"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="3"
+                                            android:gravity="center_horizontal"
+                                            android:text="Service available"
+                                            android:textColor="#ffffff"
+                                            android:textSize="@dimen/topic_status_text"
+                                            android:visibility="gone" />
+                                    </LinearLayout>
+                                </RelativeLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </ScrollView>
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_splash"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white"
+            android:visibility="gone">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/splash" />
+        </RelativeLayout>
+    </android.support.v4.widget.SwipeRefreshLayout>
+</RelativeLayout>

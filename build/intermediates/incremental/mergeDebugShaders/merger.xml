@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Other Projects\VTG\src\VTG-Unitel\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\Other Projects\VTG\src\VTG-Unitel\build-types\debug\shaders"/></dataSet></merger>

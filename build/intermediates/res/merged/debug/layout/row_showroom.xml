@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="horizontal"
+    android:weightSum="4" >
+
+    <ImageView
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:id="@+id/iv_cover"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="200dp"
+        android:layout_weight="3"
+        android:adjustViewBounds="true"
+        android:src="@drawable/showroom_cover" />
+
+    <RelativeLayout
+        android:paddingTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/default_padding"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/iv_dot"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/dot_main" />
+
+        <TextView
+            android:id="@+id/tv_map"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/border_main_color"
+            android:paddingBottom="2dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="2dp"
+            android:text="@string/map"
+            android:textColor="@color/main_color" />
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/default_padding"
+            android:layout_toLeftOf="@id/tv_map"
+            android:layout_toRightOf="@id/iv_dot"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/showroom_name"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_name"
+            android:maxLines="2"
+            android:textColor="#555"
+            android:textSize="@dimen/showroom_des" />
+    </RelativeLayout>
+
+</LinearLayout>

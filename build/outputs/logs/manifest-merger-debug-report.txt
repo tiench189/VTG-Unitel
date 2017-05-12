@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:1:1-151:12
+	package
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:2:5-29
+		INJECTED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml
+		INJECTED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:4:5-30
+		INJECTED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml
+		INJECTED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:3:5-28
+		INJECTED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml
+		INJECTED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [VTG-Unitel:SeekArc_library:unspecified] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\VTG-Unitel\SeekArc_library\unspecified\AndroidManifest.xml:30:5-32:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:8:9-38
+		INJECTED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml
+		INJECTED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:7:9-35
+		INJECTED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml
+		INJECTED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:10:22-72
+permission#com.vtg.unitel.permission.MAPS_RECEIVE
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:12:9-62
+uses-permission#com.vtg.unitel.permission.MAPS_RECEIVE
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:15:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:16:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:17:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:18:5-98
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:18:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:28:9-32
+application
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:30:5-149:19
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [VTG-Unitel:SeekArc_library:unspecified] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\VTG-Unitel\SeekArc_library\unspecified\AndroidManifest.xml:34:5-37:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:32:9-40
+	android:largeHeap
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:34:9-33
+	android:theme
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:35:9-63
+activity#com.vtg.app.ActivitySplash
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:36:9-46:20
+	android:label
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:40:13-44
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:38:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:37:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:44:27-74
+activity#com.vtg.app.ActivityHome
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:47:9-50:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:48:13-52
+activity#com.vtg.app.ActivityMore
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:51:9-54:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:53:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:52:13-52
+activity#com.vtg.app.ActivityTariff
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:55:9-58:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:57:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:56:13-54
+activity#com.vtg.app.ActivityBasicTranfer
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:59:9-62:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:60:13-60
+activity#com.vtg.app.ActivityDebitHistory
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:63:9-66:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:65:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:64:13-60
+activity#com.vtg.app.ActivityPromotion
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:67:9-70:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:69:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:68:13-57
+activity#com.vtg.app.ActivityVas
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:71:9-74:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:73:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:72:13-51
+activity#com.vtg.app.ActivityShowroomImage
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:75:9-78:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:77:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:76:13-61
+activity#com.vtg.app.ActivityBasicDebit
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:79:9-82:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:81:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:80:13-58
+activity#com.vtg.app.ActivityBasic4G
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:83:9-86:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:85:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:84:13-55
+activity#com.vtg.app.ActivityMoreOffer
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:87:9-90:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:89:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:88:13-57
+activity#com.vtg.app.ActivityBasicOffer
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:91:9-94:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:93:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:92:13-58
+activity#com.vtg.app.ActivityFirst
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:95:9-98:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:97:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:96:13-53
+activity#com.vtg.app.ActivityBasicAccount
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:99:9-102:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:101:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:100:13-60
+activity#com.vtg.app.ActivityBasic3G
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:103:9-106:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:105:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:104:13-55
+activity#com.vtg.app.ActivityOther3G
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:107:9-110:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:109:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:108:13-55
+activity#com.vtg.app.ActivityBuyPackage
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:111:9-114:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:113:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:112:13-58
+activity#com.vtg.app.ActivityMain
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:115:9-118:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:117:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:116:13-52
+activity#com.vtg.app.ActivityShowroom
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:119:9-122:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:121:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:120:13-56
+activity#com.vtg.app.ActivitySetting
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:123:9-126:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:125:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:124:13-55
+activity#com.vtg.app.ActivityProfiles
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:127:9-130:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:129:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:128:13-56
+activity#com.vtg.app.ActivityAbout
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:131:9-134:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:133:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:132:13-53
+activity#com.vtg.app.ActivityBalanceInfo
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:135:9-138:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:137:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:136:13-59
+activity#com.vtg.app.ActivityMap
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:139:9-142:20
+	android:configChanges
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:141:13-74
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:140:13-51
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:143:9-145:71
+	android:value
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:145:13-68
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:144:13-62
+meta-data#com.google.android.gms.version
+ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:146:9-148:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:148:13-66
+	android:name
+		ADDED from E:\Other Projects\VTG\src\VTG-Unitel\AndroidManifest.xml:147:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] E:\Other Projects\VTG\src\VTG-Unitel\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:19-85

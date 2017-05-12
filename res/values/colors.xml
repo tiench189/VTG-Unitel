@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dark_menu">#3c3c3e</color>
+    <color name="menu_divider">#5a5a5c</color>
+    <color name="violet">#249F9C</color>
+    <color name="main_color">#fbab1f</color>
+    <color name="gray1">#777</color>
+    <color name="gray2">#E6E7E8</color>
+    <color name="text_gray">#818386</color>
+    <color name="new_orange">#f68a1e</color>
+    <color name="info_data">#6d6e70</color>
+    <color name="gray_header">#F0F1F1</color>
+
+</resources>
